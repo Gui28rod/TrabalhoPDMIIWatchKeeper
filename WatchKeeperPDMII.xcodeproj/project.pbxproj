@@ -23,7 +23,7 @@
 		579799302A4C333B001EA1CC /* RatingMoviesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5797992F2A4C333B001EA1CC /* RatingMoviesView.swift */; };
 		579799322A4C3354001EA1CC /* TrendingResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579799312A4C3354001EA1CC /* TrendingResults.swift */; };
 		579799342A4C336D001EA1CC /* LikesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579799332A4C336D001EA1CC /* LikesView.swift */; };
-		579799382A4C44A8001EA1CC /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579799372A4C44A8001EA1CC /* HistoryView.swift */; };
+		5797993A2A4C610D001EA1CC /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 579799392A4C610C001EA1CC /* HistoryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,7 +44,7 @@
 		5797992F2A4C333B001EA1CC /* RatingMoviesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingMoviesView.swift; sourceTree = "<group>"; };
 		579799312A4C3354001EA1CC /* TrendingResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingResults.swift; sourceTree = "<group>"; };
 		579799332A4C336D001EA1CC /* LikesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikesView.swift; sourceTree = "<group>"; };
-		579799372A4C44A8001EA1CC /* HistoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HistoryView.swift; path = ../../../HistoryView.swift; sourceTree = "<group>"; };
+		579799392A4C610C001EA1CC /* HistoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +104,7 @@
 				579799332A4C336D001EA1CC /* LikesView.swift */,
 				5797992D2A4C3329001EA1CC /* RatingView.swift */,
 				5797992F2A4C333B001EA1CC /* RatingMoviesView.swift */,
-				579799372A4C44A8001EA1CC /* HistoryView.swift */,
+				579799392A4C610C001EA1CC /* HistoryView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -215,7 +215,7 @@
 				579799302A4C333B001EA1CC /* RatingMoviesView.swift in Sources */,
 				5797992A2A4C32AB001EA1CC /* ScreenViewIntroduction.swift in Sources */,
 				5797992C2A4C3317001EA1CC /* TrendingCard.swift in Sources */,
-				579799382A4C44A8001EA1CC /* HistoryView.swift in Sources */,
+				5797993A2A4C610D001EA1CC /* HistoryView.swift in Sources */,
 				579799202A4C3225001EA1CC /* Movie.swift in Sources */,
 				579799242A4C3257001EA1CC /* MovieStore.swift in Sources */,
 				579799342A4C336D001EA1CC /* LikesView.swift in Sources */,
