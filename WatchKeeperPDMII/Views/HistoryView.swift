@@ -47,9 +47,6 @@ struct HistoryView: View {
                                             .foregroundColor(.yellow)
                                             .fontWeight(.heavy)
                                         Spacer()
-                                        Image(systemName:"heart.fill")
-                                            .foregroundColor(.red)
-                                            .font(.system(size: 21))
                                     }
 
                                     Spacer()
